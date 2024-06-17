@@ -1,0 +1,5 @@
+export { default as NavBar } from './NavBar.vue'
+export { default as Footer } from './FooterLogin.vue'
+export { default as AuthMagic } from './AppAuthMagic.vue'
+export { default as AuthMagicAccount } from './AppAccount.vue'
+export { default as AuthEmailPassword } from './AppAuthPassword.vue'
